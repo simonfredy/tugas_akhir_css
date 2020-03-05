@@ -1,0 +1,38 @@
+body {
+    background-color: #343A40;
+}
+
+.fa-bug {
+    color: white;
+}
+
+.jumbo-title{
+    background-color: #343A40;
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 17%;
+}
+hr{
+    background-color: white;
+}
+
+.jumbo-isi{
+    background-color: #343A40;
+    color: white;
+    text-align: left;
+}
+
+.card{
+    background-color: #343A40;
+    border: none;
+    text-align: center;
+
+}
+h2{
+    color: #F7DD41;
+}
+
+.jum-isi{
+    background-color: #343A40;
+}
